@@ -37,7 +37,7 @@ const leaderboardCRUD = async (data) => {
 };
 
 // Global vars
-let levelNumber = 6;
+let levelNumber = 1;
 let gameState = "menu";
 let startTime = Date.now();
 let deaths = 0;
