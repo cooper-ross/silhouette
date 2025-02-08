@@ -7,6 +7,8 @@ A simple web game I built for my computer science grade 10 class final.
 # Screenshots
 Since you can't play the game on github, I have taken some screenshots to showcase what the game actually looks like in case you want to download and host it for yourself!
 
+I've also recently decided to host it via netlify if you want to try it without the commitment of a download! [Click here to play!](https://silhouette-dev-build.netlify.app/)
+
 ## Main Screen
 ![image](https://github.com/cooper-ross/silhouette/assets/120236631/5d7d7235-df11-431b-96cd-9db07962317e)
 
